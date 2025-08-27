@@ -1,6 +1,6 @@
-<h1 align="center">STATISTICS 2 Template</h1>
+<h1 align="center">Data Literacy Template</h1>
 
-**STATISTICS 2 정규과제 템플릿**입니다.  
+**Data Literacy 정규과제 템플릿**입니다.  
 이 템플릿은 다트비 6기에서 매주 주어지는 **데이터 문해력 기반 정규 과제**를 정리하고 제출하기 위한 기본 템플릿을 제공합니다.  
 
 ---
