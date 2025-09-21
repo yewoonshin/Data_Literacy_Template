@@ -50,7 +50,7 @@
 
 <!-- 새롭게 배운 내용을 자유롭게 정리해주세요.-->
 
-![.](image/kirby.jpg)
+![.](image/kirby.jpg)dkkddkdkdk
 
 ## 02. 비교할 때는 관점이 중요하다
 
